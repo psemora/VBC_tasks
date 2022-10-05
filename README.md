@@ -1,0 +1,1 @@
+This repo contains tasks from [Bio-inspired Computing](https://www.fme.vutbr.cz/en/studenti/predmety/245869) course.
