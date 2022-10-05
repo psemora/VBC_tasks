@@ -10,16 +10,15 @@ Defined problems:
 
 ## Images
 <p align="center"><b>Found optimal solutions for defined problems using Bat Algorithm: </b></p>
-<p align="center"><b>Rastrigin's function</b></p>
-
-![Rastrigin's function](images/rastrigin_01.PNG)
-
 </br>
-<p align="center"><b>Rosenbrock function</b></p>
 
-![Rosenbrock function](images/rosenbrock_01.PNG)
-
+- <b>Rastrigin's function</b>
+  <p align="center"><img src="https://github.com/psemora/VBC_tasks/blob/main/task_3/images/rastrigin_01.PNG" alt="Rastrigin's function"/></p>
 </br>
-<p align="center"><b>Schwefel function</b></p>
 
-![Schwefel function](images/schwefel_01.PNG)
+- <b>Rosenbrock function</b>
+<p align="center"><img src="https://github.com/psemora/VBC_tasks/blob/main/task_3/images/rosenbrock_01.PNG" alt="Rosenbrock function"/></p>
+</br>
+
+- <b>Schwefel function</b>
+<p align="center"><img src="https://github.com/psemora/VBC_tasks/blob/main/task_3/images/schwefel_01.PNG" alt="Schwefel function"/></p>
