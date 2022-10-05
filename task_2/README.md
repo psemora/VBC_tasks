@@ -11,16 +11,19 @@ Defined problems:
 
 ## Images
 <p align="center"><b>Found optimal solutions for defined problems using Genetic Algorithm: </b></p>
-
-![Rastrigin's function](images/rastrigin_01.PNG)
-
 </br>
-<p align="center"><b>Rosenbrock function</b></p>
 
-![Rosenbrock function](images/rosenbrock_01.PNG)
-
+- <b>Rastrigin's function</b>
 </br>
-<p align="center"><b>Schwefel function</b></p>
+  <p align="center"><img src="https://github.com/psemora/VBC_tasks/blob/main/task_2/images/rastrigin_01.PNG" alt="Rastrigin's function"/></p>
+</br>
 
-![Schwefel function](images/schwefel_01.PNG)
+- <b>Rosenbrock function</b>
+</br>
+<p align="center"><img src="https://github.com/psemora/VBC_tasks/blob/main/task_2/images/rosenbrock_01.PNG" alt="Rosenbrock function"/></p>
+</br>
+
+- <b>Schwefel function</b>
+</br>
+<p align="center"><img src="https://github.com/psemora/VBC_tasks/blob/main/task_2/images/schwefel_01.PNG" alt="Schwefel function"/></p>
 
